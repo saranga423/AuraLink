@@ -119,22 +119,6 @@ Green = No urgent emails
 Blue = Medium urgency
 Red = High urgency emails
 
-ESP32 Device              MQTT Broker              Python Backend
-    |                          |                          |
-    |---(sensor data)--------->|                          |
-    |                          |----(sensor data)-------->|
-    |                          |                          |
-    |                          |                    [Process Data]
-    |                          |                    [Generate Quote]
-    |                          |                    [Check Emails]
-    |                          |                    [Summarize]
-    |                          |                          |
-    |                          |<---(quote + summary)-----|
-    |<--(quote + summary)------|                          |
-    |                          |                          |
-[Update Display]
-[Set LED Color]
-
 
 [ESP32 Device              MQTT Broker.docx](https://github.com/user-attachments/files/22987970/ESP32.Device.MQTT.Broker.docx)
 
