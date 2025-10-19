@@ -99,9 +99,9 @@ python auralink_backend.py
 
 should see:
 
-============================================================
+==================
 AuraLink Backend - Email Summarization with LLM
-============================================================
+================
 
 Connecting to MQTT broker: broker.hivemq.com:1883
 Connected to MQTT broker with result code 0
