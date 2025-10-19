@@ -136,6 +136,9 @@ ESP32 Device              MQTT Broker              Python Backend
 [Set LED Color]
 
 
+[ESP32 Device              MQTT Broker.docx](https://github.com/user-attachments/files/22987970/ESP32.Device.MQTT.Broker.docx)
+
+
 
 
 
