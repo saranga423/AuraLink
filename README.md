@@ -124,16 +124,27 @@ Red = High urgency emails
 
 
 Testing Checklist
+
  ESP32 connects to WiFi successfully
+
  DHT22 reads temperature and humidity
+
  OLED displays sensor readings
+
  ESP32 publishes to MQTT broker
+
  Backend receives sensor data
+
  Backend generates literature quotes
+
  Backend accesses Gmail successfully
+
  Backend summarizes emails with LLM
+ 
  ESP32 receives backend messages
+
  Display shows quotes and email summaries
+ 
  RGB LED changes based on urgency
 
 
